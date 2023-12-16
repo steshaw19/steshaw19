@@ -1,6 +1,6 @@
 ### Hi there - I'm Ste👋
 
-I am a Sport and Exercise Sciences and Teacher Training graduate who has spent 10 years teaching children with disabilities. I am just beginning my journey in data sciences and excited about where it may lead.
+I am a Sport and Exercise Sciences and Education graduate who has spent 10 years teaching children with disabilities. I am just beginning my journey in data sciences and excited about where it may lead.
 
 - 🔭 I’m currently working on the AICore 14 week bootcamp.
 - 🌱 I’m currently learning Python, Command Line, Data Science, and Cloud Engineering.
