@@ -21,6 +21,18 @@ I am a Sport and Exercise Sciences and Education graduate who has spent 10 years
 *This project focuses on data extraction, cleaning, and uploading to a database using Python. The data involves user information, PDF data, store details from an API, and product details from CSV files stored in an S3 bucket on AWS. SQL was used to develop a star-based database scheme ensuring correct data types and primary and foreign keys. SQL was then used to query the data and present an analysis for a demo business situation.*
 
 
+## Achievements & Certifications
+Software Engineer Certification - AiCore 2023 🥳
+Python Essentials Certification - AiCore 2023 🍾
+
+## Connect & Collaborate
+Connect with me - I would love to collaborate and create together 
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ste-shaw-a271572a5/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steshaw19@gmail.com?subject=Hi%20there!%20%F0%9F%91%8B)
+
+
+
+
 
   
   
